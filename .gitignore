@@ -1,0 +1,9 @@
+*.csv
+*.csv.gz
+kaggle.json
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+vm/vm.env
+!.env.B
