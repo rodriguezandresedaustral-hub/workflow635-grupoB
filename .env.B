@@ -39,7 +39,7 @@ DATASET_PATH=/home/ds/buckets/b1/datasets/analistasr_competencia_2026.csv.gz
 
 # --- mail -----------------------------------------------------------------
 # Asi como esta, NO manda mails (el script anota "SIN MAIL" y sigue).
-# Para recibirlos, ver "2. El mail" en el README y poner:
+# Para recibirlos, ver "Mails" en el README y poner:
 #   MAIL_FROM=tu_cuenta@gmail.com
 #   MAIL_PASS_FILE=/home/ds/buckets/b1/secrets/gmail_app_password
 #   MAIL_TO_FILE=/home/ds/buckets/b1/wf635/destinatarios.txt
